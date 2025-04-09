@@ -1,0 +1,1 @@
+var json_Buildingtobedemolished_2 = {"type":"FeatureCollection","name":"Buildingtobedemolished_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[39.675266091667638,-4.050012513650949]}}]}
